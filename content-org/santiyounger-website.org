@@ -1,0 +1,948 @@
+#+HUGO_BASE_DIR:~/hugo/santiyounger-website
+#+hugo_weight: auto
+* ------------------- Posts --------------------------
+* "Davincism" A Modern Philosophy For People With Various Interest :davincism:
+:PROPERTIES: 
+:EXPORT_HUGO_SECTION: posts 
+:EXPORT_FILE_NAME: davinci 
+:EXPORT_DATE: 2020-08-01 
+:CUSTOM_ID: davinci-200803 
+:END: 
+** A New Modern Philosophy I've been playing with an idea a while.
+What if I started a movement for a modern school of thought, a philosophy for creators. I would name this philosophy Davincism in honor to the greatest creator of all time Leonardo DaVinci. 
+
+** What Is Davincism And Who Is It For?
+Davincism would become a modern philosophy for creators who unlike the very well established counterparts "specialists" can't or don't want to focus on just one interest. 
+
+It is a philosophy with the aim to bring together all types of creative people who want to learn how to be their true self. Davincism promotes the idea to combine most or all of your interests into your creative output. 
+
+** Who Is This Philosophy Not For?
+Even thought they can still learn from davincism this philosophy is not made for specialist. Davincism doesn't treat specialists as the enemies. This philsophy aims to fix what for centuries has been a world that only praises those who can "focus" and specialize on just one field. 
+
+** The Multi-Niche Method
+This modern philosophy is very much aimed for you, if you want to create content online. If your goal is to: - Work For Yourself - Start A Business - Create A Personal Brand Then this creative philosophy is for you. The multi-niche method is a rebelion against the common /"you need to niche down"/ advice that we all hear everywehere. There's no denying on the monetary advantages of a niche, specialization is a great approach to creative work, but it's not the only way.
+
+ The multi-niche method teaches how to make it as someone with various interests, and use that creative power to your advantage, this could take the form of combining various niches or of finding a way to innovate on all of them simultaneously. This is a concept I'm still expanding on, if you'd like to learn more feel free to contact me. # add contact 
+ 
+** What Term Is Used To Describe A Follower Of Davincism? 
+Someone who practices the concepts of Davincism would be called a /Davincist./ You can start calling yourself a davincist from the moment you choose to, this is not a religious movemement, nor a private club. My hope is to make davincism a established idea that anyone who doesn't want to follow in specialization can adopt.
+
+** A Little Note On Our Hero Leonardo
+As we all know DaVinci is one of the most brilliant geniuses that humanity has sees. There might be thousands of people like him right now, who’s goals and amibtions have never been able to reached Leonardo’s level of achhivements and admiration. Perhaps you (just like me) have also been envious of Leonardo’s ability to line up all of his talents and pass to history as the most successful Polymath. DaVinci had an incredible ability to work on an infinite amount of different fields of study, including: 
+ 
+- Art 
+- Science 
+- Architecture 
+- Anatomy 
+- Engineering 
+- Philosophy
+ 
+ The list goes on, almost to the extent where you could mention any field of study and research on how DaVinci made some mayor contributions to it.
+ 
+** The Times When People Like DaVinci Were Admired 
+Leonardo didn't have an easy life, but he was born in a time where being a generalist was admired. The Renaissance man, was someone who has many talents, someone who had the ability to aquiere a higher knowledge in many fields of study.
+
+** The Rise Of Specialization The Downfall Of Generalists 
+Unlike today, being a single talented specialist wasn't very admirable. We lost our way with the rise of industrialization where we created a market that treats us as productivity machines more than actual humans, filled with curiosity and a desire to learn.
+
+** Nature Vs Nurture
+It's hard to tell if some of us are born to have several intersts, or if it's a personality trait we aquiere. Some say we are all born with infinite curiosity and society pushes us down the funnel of specialization, (this is not too hard to believe) weather you think you were born like this, or if it's a choice, let me encourage you to be who you want to be to the fullest. 
+
+** Many Terms To Describe Someone Like DaVinci
+Davincism is a term that aim to unify all the different ways in which people like as are refered to. Just to mention a few:
+
+- Jack of All Trades
+- Generalist
+- Polymath
+- Multipotentialite
+- Scanner
+ 
+** Why A New Term?
+Unfortunately, some of the terms used to describe have the intention to look down on us. Jack of All Trades is something used to describe someone unfocused, Generalist is someone who can't specialize. Polymath is an amazing term, yet not well know and difficult to understand just by reading it. Davincism is a term that can be understood from just reading it. Most people know who Leonardo DaVinci is, he is recognized as a genius and it's an empowring term for those of use who want to be more like DaVinci and become the true versions of ourself with all of our intersets and passions.
+
+** What's Next 
+Considering that you are on board with this new philosophy, you can become a proacticng davincist from this moment onward. Of course using a new term won't chance your life just like that, but it's a start. y thoughts on this new philosophy are in progress. If you would like to find out more how to be a successful Davincist I'd love to help, feel free to contact me, let's create a movement together.
+**  COMMENT 
+**** Blog Post properties  
+first draft written in <2020-07-31 Fri>
+**** blog post Todo
+***** links add links for the Multi Hyphened Method add links for Refuse To Choose
+**** Index Card Notes Used # [[file:20200718095121-polymath.org][polymath]] # [[file:24,0-multipotentialite.org][multipotentialite]] # [[file:24,1-multipotentialite_davinci.org][multipotentialite example DaVinci]] Consulting call
+* Trust That What You Know Today Is Good Enough To Start :davincism:creativity:
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: posts
+  :EXPORT_FILE_NAME: trust_what_you_know
+  :EXPORT_DATE: 2020-08-06
+  :END:
+  There's an interesting [[#eponymous-200806][Eponymous law]]. called Segal's law, that illustrates how too much information makes us insecure to share our work.
+** Segal's Law
+   :PROPERTIES:
+   :CUSTOM_ID: segals-law-200806
+   :END:
+ Segal’s Law states:
+> “A man with a watch knows what time it is. A man with two watches is never sure.”
+
+ Having too much information can often make a decision more difficult instead of easier.
+
+ This is also related to the paradox of choice, *which overwhelms us and makes us regret any choice we ever make.* since we fall intro the trap of thinking that the alternative choice would have been better.
+ 
+** Share Your Work Improve It As You Go
+  If like me you are trying to create meaningful content online. Or if you have a project you've been wanting to share, just do it.
+
+  Publish your work, it doesn't matter how imperfect it seems. The sooner we understand perfection is unachievable the better we'll be.
+
+  Start small, improve as you go, and most of all trust that what you know today is good enough to start.
+  
+  There's an amazing [[https://sive.rs/infinity][blogpost ]]by [[https://sive.rs][Derek Sivers]] that helps illustrate this point perfectly. 
+
+* How To Fold Text In Ox-Hugo Quick and Easy                   :hugo:web_design:
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: posts
+  :EXPORT_FILE_NAME: folding_website_sections
+  :EXPORT_DATE: 2020-08-07
+  :CUSTOM_ID: folding-200807
+  :END:
+ # collapse and expand,
+ # better title: How to make collapsable text in HTML
+Recently I learned how to write HTML code inside of ox-hugo thanks to this amazing [[file:~/Zotero/storage/289Z3CW7/hugo-raw-html-shortcode.html][short blog-post]].
+
+This feature seems to work natively inside of ox-hugo without the need to put it in an HTML block.
+
+This should work just as well for regular HTML, as well as regular Hugo, this is not a special feature of ox-hugo, but it works great in it and that's where I'm using it.
+
+** What It Looks Like
+   
+ <details>
+ <summary>Click Here To Expand</summary>
+ 
+This is really useful for times when you want to write about something optional for your audience to read, without interrupting the flow of the blog-post.
+
+It can also be used for adding long code.
+
+Or in any other creative way you can think of.
+ </details>
+ 
+** How to Do it.
+ Create an opening "details" tag like so:
+#+BEGIN_SRC
+<details>
+#+END_SRC 
+
+Define the text you want it to show with "summary" tag like so:
+#+BEGIN_SRC
+<summary>
+#+END_SRC 
+write what you want to display as a folding title and then close the "summary" tag.
+
+#+BEGIN_SRC
+</summary>
+#+END_SRC 
+Insert all the text you want to insert.
+
+And then close the "details" tag.
+
+#+BEGIN_SRC
+</details>
+#+END_SRC 
+
+** This Is How The Code Would Look Like
+
+
+    #+BEGIN_SRC
+    <details>
+    <summary>Write What You Want To Display Here</summary>
+   The content you want to unfold goes in here.
+    </details>
+  #+END_SRC
+
+** And This Is What It Would Look Like For The User
+   <details>
+   <summary>Write What You Want To Display Here</summary>
+   
+  The content you want to unfold goes in here.
+   </details>
+
+   Of course you get the benefits of using this feature when the content inside of it is longer and worth unfolding.
+
+   The following is [[https://hipsum.co][Hipster Ipsum]] it's like Lorem Ipsum but hipster, unfold at your own risk!
+   <details>
+   <summary>Hipster Ipsum</summary>
+   
+   Fanny pack squid ramps, hammock blog 90's portland shaman poutine shabby chic craft beer.
+   
+ Activated charcoal taxidermy pork belly chia godard pickled franzen unicorn bushwick adaptogen flannel sriracha. 
+
+Copper mug pop-up chicharrones umami, woke godard shaman four dollar toast art party twee PBR&B knausgaard yuccie post-ironic. 
+
+Truffaut chambray vape, sriracha cred man braid sartorial live-edge direct trade. Squid woke hoodie letterpress normcore biodiesel.
+   </details>
+ 
+  That's all folks, hope you found this helpful.
+
+* Eponymous Law
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:EXPORT_FILE_NAME: eponymous
+:CUSTOM_ID: eponymous-200806
+:END:
+   Eponymous law refers to a  concept that is named after a person, place or thing. Perhaps the most common example is *Murphy's Law:*
+> "Anything that can go wrong will go wrong".
+   
+ 
+There are several amazing laws like this.
+
+
+This page is my work in progress place to link to different eponymous laws mentioned in my blog.
+ - [[*Segal's Law][Segal's Law]]
+  
+* -----------------Main Pages------------------------
+* About
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :EXPORT_FILE_NAME: about
+  :EXPORT_DATE: 2020-08-02
+  :END:
+
+Hey my name is Santi.
+ [[file:../static/about-me-1-big.jpg]]
+
+
+I am a Jack of All Trades with several interests. Yet they all have one thing in common.
+I learn to create and I create so that I can learn.
+
+Here are some of my top interests:
+
+- Stoic Philosophy
+- Note Taking Systems
+- Polymathy
+- Web Design
+- Linux
+- Film-making 
+- Animation
+- Photography
+- Constructed Languages
+- Street Magic
+ 
+here's a quick list of weird ways to describe myself.
+
+- lover of wisdom
+- ideas aficionado
+- obsessive learner
+- devoted life-liver
+- creativity enthusiast
+- lifestyle philosopher
+- and a learn as you teach kind of guy
+
+If That Didn't Make You Roll Your Eyes, Wait There's More...
+I could tell you:
+
+- what I studied
+- where I'm from
+- where I live
+- etc...
+ 
+At the end of the day none of those things define who I am.
+
+** The Way We Introduce Ourselves Is Based On Boring Tags
+ Yes, we can describe the boring stuff if we wish, but most of those tags are things we do, they are not who we are.
+
+ So if you are going to use tags, then make them interesting.
+
+ Write something ridiculously epic.
+
+*** I am a ---(fill in epic list)---
+ I challenge you to write a ridiculous description like the one I made. Send me an email and introduce yourself that way.
+
+
+ Name the subject line of the email:
+ Epic Intro ---Insert your name---
+
+* 
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_DATE: 2020-08-02
+  :END:
+  Hey There, my name is Santi, you can make the most of this website by exploring different categories below.
+** [Davincism]({{< relref "tags/davincism" >}})
+   
+   <details>
+   <summary>What is This Category About?</summary>
+   
+In this Category I explore what it's like to be *A Jack of All Trades in a Specialized World.* Davincism is a term I use to bring together those of us who want to become modern versions of Leonardo DaVinci.
+
+*** What You'll Learn
+ I share what I've learned on how to successfully manage multiple projects, passions and income streams. My aim is to help yo be more of you who truly are.
+   
+ Explore this category:
+[Davincism]({{< relref "tags/davincism" >}})
+    </details>
+
+** [Web-Design]({{< relref "tags/web-design" >}})
+   <details>
+   <summary>What is This Category About?</summary>
+  
+   Just like more people, I've gone through all times of platforms to design websites. I am finally happy using an amazing set-up with hugo.
+   
+ Explore my thoughts on 
+[Web-Design]({{< relref "tags/web-design" >}})
+    </details>
+   
+    </details>
+** [Creativity]({{< relref "tags/creativity" >}})
+* Podcast
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :EXPORT_FILE_NAME: podcast
+  :END:
+** [[#creative-stoic-200831][The Creative Stoic Podcast]]
+ # ** [The Creative Stoic Podcast]({{< relref "creative" >}})
+* The Creative Stoic Podcast
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: /creative-stoic
+  :EXPORT_FILE_NAME: pod_creative
+  :CUSTOM_ID: creative-stoic-200831
+  :END:
+  
+  {{< rawhtml >}} 
+    <p id="pod-apps"><a href='https://podcasts.apple.com/us/podcast/time-flies-philosophy-podcast/id1406127427'>iTunes</a> // <a href='https://open.spotify.com/show/1DNVq7jHDb2OmTgsGvXdlp'>Spotify</a> // <a href='https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81MjY0NGY0L3BvZGNhc3QvcnNz'>Google Podcasts</a> //<a href='https://anchor.fm/time-flies/'>Anchor &amp; More</a></p><hr>
+    
+    The overlap between Stoic philosophy and creativity.
+
+My mission will not end until philosophers become creative and creatives become philosophers.
+* Contact Me
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :EXPORT_FILE_NAME: contact
+  :END:
+  
+  {{< contact-form >}}
+
+  {{< social >}}
+* Now
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: ./
+  :EXPORT_FILE_NAME: now
+  :END:
+  {{< rawhtml >}}
+# #+BEGIN_SRC html   
+<details>
+<summary>Previous Updates: 2019 December</summary>
+{{< youtube gwzT5rV-404 >}}
+  <h2>Creations</h2>
+  <ul>
+  <li>Writing and editing daily.</li>
+  <li>Learning HTML and CSS to build my own website (this one). </li>
+  <li>Building an epic, unconventional newsletter for you (Coming soon).</li>
+  <li>Filming and editing videos for YouTube (Coming soon &#128284;).</li>
+  <li>Editing podcast interviews.</li>
+  <li>Working on a secret epic side-project for modern Stoics.</li>
+
+  </ul>
+  <h2>Personal</h2>
+  <ul>
+  <li>Just finished my Master&#39;s degree. No more University ever again!</li>
+  <li>Dedicating 95% of my day to everything mentioned above.</li>
+
+  </ul>
+  <h2>Struggles</h2>
+  <ul>
+  <li>I have too many ideas, not enough time and money to achieve them all.</li>
+  <li>I&#39;ve been unsuccessfully applying for jobs for months. </li>
+
+  </ul>
+  <p><em>(I need a day job to help sustain everything I&#39;m creating, until I can make a living out of what I create.)</em></p>
+  <ul>
+  <li>I want to achieve it all at once.</li>
+
+  </ul>
+  <h2>Learning</h2>
+  <ul>
+  <li>Reading &#39;Perennial Seller&#39; by Ryan Holiday.  <sup> <a href='http://perennialseller.com/'>&#128213;</a> </sup></li>
+  <li>Going through Sean Wes&#39; amazing online courses. <sup> <a href='https://seanwes.com/membership/'>&#128187;</a></sup></li>
+  <li>Almost done reading &#39;Head First HTML and CSS&#39;. <sup> <a href='https://www.oreilly.com/library/view/head-first-html/059610197X/'>&#128211;</a></sup></li>
+  <li>Just finished &#39;Walden&#39; by Thoreau. Still need to organize notes. <sup> <a href='https://www.walden.org/thoreau/'>&#128215;</a> </sup></li>
+  <li>I need to re-watch &#39;The Dead Poet Society&#39; it&#39;s a beautiful film. I&#39;ve been watching clips of it on YouTube. <sup> <a href='https://www.youtube.com/watch?v=H2xX_jf5qAI'>&#128252;</a></sup></li>
+  <li>About to start reading &#39;The Dip&#39; by Seth Godin. <sup> <a href='https://seths.blog/category/the-dip/'>&#128216;</a> </sup></li>
+
+  </ul>
+  <hr />
+  <p>&nbsp;</p>
+  <p>This is a Now page inspired by the amazing Derek Sivers&#39; project <a href='https://nownownow.com/about'>&#128223;</a></p>
+{{< /rawhtml >}}
+
+</details>
+* ----------------- Drafts --------------------------
+* TODO Philosopher's Walk 30 Day Challenge
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:EXPORT_FILE_NAME: walk-think
+:CUSTOM_ID: eponymous-200806
+:END:
+** Day 1
+  - after-walk mood: 7.5
+  - distance (km): 1.2
+  - distance (mi): 0.75
+  - duration (mins): 25
+  - pre-walk mood: 6
+  - mood improvement %: 15
+  - type: alone
+   
+***  code
+#+BEGIN_SRC elisp     
+pre-walk mood: 6
+after-walk mood: 7.5
+distance (km): 1.2
+distance (mi): 0.75
+duration (mins): 25
+mood improvement %: 15
+type: alone
+#+END_SRC 
+
+
+    I just got back from my first walk. It was an awesome experience I can't remember the last time I walked for it's own sake.
+   I usually walk for one of the following purposes:
+
+   - to get somewhere
+   - dog walk
+
+     
+** Thoughts
+   I didn't try to purposefully think about any problem in particular. Naturally my urge to turn everything I do into some creative idea lead me down a strange path.
+
+I wanted to do this 30 day walk challenge to build the habit of walking. I thought it would be cool to write a blogpost about my experience.
+This quickly got out of control into the following thoughts.
+
+- I can track my daily thoughts
+- I can measure data on things like time, distance
+- I can go even further, tracking my mood per day
+
+  It quickly got out of hand into the full fledged blogpost that you are reading right now.
+ 
+** Rules
+  - No phone allowed
+  - Most walks in the week need to be alone
+   
+    
+** COMMENT
+*** Process to import properties
+:stats-example:
+ pre-walk mood: 6
+ after-walk mood: 7.5
+ distance (km): 1.2
+ distance (mi): 0.75
+ duration (mins): 25
+ mood improvement %: 15
+ type: alone
+ :end:
+
+put numbers in table in notion, export it as md and then remove the numbers if needed. 
+
+* TODO Can We Go Back To A Better Internet?
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: posts
+  :EXPORT_FILE_NAME: modern_internet
+  :EXPORT_DATE: 2020-08-06
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :summary Writing hugo post in Emacs org.
+  :END:
+  In open-source software there's the idea of rollback version, this means that if you use a particular software and the developers make version 2.0 you have the choice to go back to version 1.0 if you want to.
+
+Imagine what it would be like if we could do that with the internet as a whole. I'm talking about a point in time where you could watch a video online without being advertised and click-baited every 5 seconds.
+
+** Internet Version 1.0
+
+Internet v.10 consist of a time where you could search for something online without ending up with the feeling that you are doing everything wrong,* and that your life we'll forever be a mess if you don't get a personal coach.
+ 
+*What if we went back to this Internet version 1.0, would that make a better world?*
+
+ I'm not sure, it wouldn't allow so many people to seek independance by starting their online businesses. The Internet back there wasn't the interconnected web of knowledge that now is.
+
+Perhaps the lack of mentally destructive social media is the best feature of version 1.0
+ 
+** Internet Version 2.0
+
+    Version 2.0 is a money making machine, if you want to find blogs that are made for the love of knowledge and sharing thoughts, you might have to make your way to the depths of the Internet, in order to find something great. *Most online content is made with the intention to be monetized.* 
+
+** What Can We Do About It?
+I am no exception to some inherent parts of version 2.0. I want to share what I create, *I want to help people who are interested in the same things as I am, and I want to be more independent.* 
+
+Creating content online and finding an ethical way to monetize it, is a great feature to empower people to create. Unfortunately there's a lot of ways in which this can go wrong.
+
+** We Can't Go Back To Version 1.0, So What Can We Do?
+
+ Perhaps we'll never be able to roll-back to version 1.0, so we might as well talk about how to improve our use of version 2.0
+
+ This is something that I'm still trying to find out, some of the questions that content creators must as are:
+ 
+** Questions For Creators
+
+ - How can I build a brand founded on trust?
+ - How can I be more authentic with my work?
+ - If I want to make a living out of this, how can I make it in an ethical way?
+ 
+** Questions Consuming Online Content
+ - Am I getting value from the content I consume online?
+ - Is the Internet helping me achieve what I want, or is it distracting me too much?
+ - Do I feel empowered by my use of the Internet, or am I constantly feeling inadequate?
+   
+
+  Only by asking better questions can we merge version 1.0 and 2.0 together, into something that benefits as, both as creators and learners.
+
+** Inspiration For This Post
+  
+ I was going through [[https://www.taniarascia.com/another-website-redesign/][Tania Rascia's]] amazing blog and I came across [[https://www.taniarascia.com/another-website-redesign/][this blogpost]] in it she talks about how the old Internet used to be. She also talks about delivering free content without ads to an audience, just because she loves to create.
+
+ I think here philosophy on content creation is admirable, a lot of her content is on web-development and programming, if you are interested in that kind of awesome stuff, I highly recommend [[https://www.taniarascia.com/another-website-redesign/][checking out her website.]]
+* TODO How To Add HTML To Your Hugo Website  
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: posts
+  :EXPORT_FILE_NAME: html_in_ox_hugo
+  :EXPORT_DATE: 2020-08-07
+  :CUSTOM_ID: html-in-ox-hugo-200807
+  :END:
+    
+ Ever since I decided to redesign my website with ox-hugo, my mind has been blown.
+
+I've had to work with a couple of workarounds to do exactly what I need.
+
+Among this things I wanted to find a way to include HTML into my org-file.
+
+Initially I thought I'd be able to get away with the following due to org-mode functionality.
+
+~#+BEGIN_SRC HTML~
+
+I'd write HTML code in between this tags.
+
+~#+END_SRC~
+
+
+*Of course this didn't work* since ox-hugo exports to markdown and markdown doesn't support this feature.
+
+** How To Do It?
+
+I wasn't able to find anything in the documentation, but thanfully I stambled upon an amazing [[file:~/Zotero/storage/289Z3CW7/hugo-raw-html-shortcode.html][short blog-post]], which taught me exactly how to include HTML. This tutorial is made with Hugo using Markdown, thankfully it works exactly the same for ox-hugo without any extra steps.
+
+The following steps are fully attributed to the author of the blogpost [[https://anaulin.org][Ana Ulin]], so thanks to Ana for this.
+
+The way to do it is how to your hugo directroy 
+in my case I have mine in
+
+/home/user/hugo/santiyounger
+
+go to layouts
+
+in there create a new folder called "shortcode"
+
+then create a file and call it rawhtml.html 
+
+edit the file with your favorite editor ;) 
+and add the following to it:
+
+#+BEGIN_SRC
+<!-- raw html -->
+{{.Inner}}
+#+END_SRC 
+
+now go to your org mode file where you edit your ox-hugo webiste.
+
+Choose a place where you want to insert some HTML
+open the HTML with:
+
+~{{< rawhtml >}}~
+and end it with:
+~{{< /rawhtml >}}~
+
+# I need  to define <code> inside my css to achieve this
+
+ I found this extremely useful for migrating my old blog-posts into this new ox-hugo website set-up, since most of my old content was formatted in in HTML. 
+ 
+Of course the reason why you might need this is to work with css. Which is one of the biggest reasons to set this up.
+
+ 
+# the blog supports webmentions, I'll do this once website is live.
+* TODO 60-Minute Consulting On Your Project
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: posts
+  :EXPORT_FILE_NAME: consulting
+  :END:
+If you want to [[*Let's Do It][schedule an hour]] to discuss your projects and ideas I'd love to be of service.
+
+- Productivity Systems
+- Business Ideas
+- Content Creation Advice
+
+  # this is inspired from  https://joelhooks.com/consult
+** Specific Topics
+I am a Jack of Trades, with a holistic mixture of interests, ranging from practical philosophy to computer nerdy stuff.
+
+ If you've found my website thanks to a very specific interest, then I can help you with that too.
+
+*Some Examples Are:*
+- Note-Taking Systems
+- Web-Design
+- Being a Successful Jack of All Trades
+
+** Frequently Asked Questions
+**** I'd Love To Hire You, But I Don't Have To Time To Schedule A Call?
+I get you, our lives get busier and busier, part of what I can help you with is develop strategies to use your time more efficiently, so that you can free your time to achieve your goals.
+
+If you'd like to hire me, but don't have time for a video call, then reach out to me, *we can plan an email based consulting method that fits with your schedule.*
+**** What Types of Topics Will We Cover?
+My objective is to help you achieve your goals, we'll talk about the problems you'd like to solve for your own projects. 
+
+Where I can contribute most is in providing ideas, resources, tools and the mindset needed to help you create a system that will allow you to go where you want to go.   
+
+**** Who is This For?
+I love to work with creative people with all types of interesting projects. 
+
+I particularly love working with other Jacks of All Trades, people who have ideas for several side projects, or want to find a way to make several projects work all at once.    
+
+** Let's Do It
+   :PROPERTIES:
+   :CUSTOM_ID: consulting-form-200808
+   :END:
+  
+*Just Send Me A Message Explaining What I can Help You With* 
+
+After reading your application. I'll provide scheduling options and custom pricing depending on your particular needs.
+
+  {{< contact-form >}}
+  
+* TODO Work life Balance
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:EXPORT_FILE_NAME: work_life_balance
+:EXPORT_DATE: 2020-08-01
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :summary Writing hugo post in Emacs org.
+:END:
+** Intro
+  Why are we encouraged to separate life and work?
+It makes sense on the surface, but why should they be so separate?
+
+Is it healthy to devide ourselves into two?
+Should we then have two moralities? The Professional one, and the individual one?
+
+** Why is work life balance such a popular concept
+Work life balance is a side effect of a society that doesn't enocurage us to do what we love for a living, nor does it push us to show more of who we are into our work.
+
+Therfore we are often encpuraged to divide our proffessional lives from our personal one. 
+
+** Modern enterprise
+Thankfully there are a lot of companies, that have started to wake up to the fact that their employees are humans, but here in Ecuador South America where I live, I think this reality is still very distant.
+** Falling victim for the system
+If you've fallen victim of the system, then you must abosilutly separate your work from your life, to remain mentally sane, but what if you want to find a way to integrate more of who you are into the work that you do?
+
+** enjoying work
+It might sound insensite to say this, but shouldn't we strive for enjoying our work for it's own sake rather than to simply make money to survive. Granted there's a lot of people in the world who still need to work really hard so that they can put a bread in the table, that is a reality, but there's a lot of people just strive for what other people want (money and fame) rather than search for fullfilment into ones work.
+
+If you want to integrate more of who you are into your work, you are not alone, let's figure out what steps to take.
+
+** Sciene and energy to work
+In thermochemistry there's a difference between exergonic and endergonic reaction:
+
+**Exergonic:** You need to keep adding energy to keep the process running.
+**Endergonic:** The process continues after it's been triggered and even generates energy of it's own.
+This is the difference between:
+
+*Being Pulled vs Pushing Forward*
+
+Being pulled forward to do our work through a satisfying process.
+
+** Independance
+   I've studied a lot of practical philosophy, mostly Stoicism and I've learned that the main reason why we suffer is when we try to control what's outside of our control.
+   
+It doesn't matter who you work for, as long as you work for someone else, you are putting a lot of your time in someone else's hands. Not every job is bad, perhaps you are one of the lucky few who works in an amazing evironment, but I believe that for most people the solution is to put more of your work into your own hands.
+
+This isually implies finding a way to be more independant. Freelance, starting a business, coaching, writting and many other things might be the solution towards more autonomy.
+
+Yet all of this things are scary. Finding a way to find fiancial autonmy is a process for which one blog post will not suffice.
+
+One of the best resources I've ever found on the transition between day job towards autonomy is a book by one of my mentors Sean Wes overlap
+# link overlap 
+
+** Blog Post info
+*** Blog Post properties
+    first draft written in
+    <2020-07-31 Fri>
+*** blog post Todo 
+**** links
+     link overlap
+*** Index Card Notes Used
+    # [[file:5,0-let_the_work_carry_you_forward.org][Let the Work Carry You Forward]
+* TODO Episode 54
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: creative
+  :EXPORT_FILE_NAME: tcs_ep_54
+  :END:
+  
+  {{< rawhtml >}} 
+  <iframe src="https://anchor.fm/time-flies/embed/episodes/54--The-Philosophy-Behind-Time-Tacking-eemm3i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+  {{< /rawhtml >}} 
+  
+  {{< rawhtml >}} 
+    <!--- hEADING-->
+    <p id="section-title">The Creative Stoic Podcast</p><hr>
+    <p id="pod-apps"><a href='https://podcasts.apple.com/us/podcast/time-flies-philosophy-podcast/id1406127427'>iTunes</a> // <a href='https://open.spotify.com/show/1DNVq7jHDb2OmTgsGvXdlp'>Spotify</a> // <a href='https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81MjY0NGY0L3BvZGNhc3QvcnNz'>Google Podcasts</a> //<a href='https://anchor.fm/time-flies/'>Anchor &amp; More</a></p><hr>
+
+
+    <p id="section-title">&#35;54 -The Philosophy Behind Time Tacking<p>
+
+
+<div class="pod-container">
+	<iframe src="https://anchor.fm/time-flies/embed/episodes/54--The-Philosophy-Behind-Time-Tacking-eemm3i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<article>
+<p><strong>Time tracking is one of those things that can drastically improve our productivity level.</strong> Yet, not enough of us do it. In this episode I talk about the advantages of time tracking and why you should do it.</p>
+<p><strong>I recommend </strong><a href="https://toggl.com/">Toggl</a> <strong>my tool of choice when it comes to efficient time tracking.</strong></p>
+</article>
+{{< /rawhtml >}} 
+
+Episode 1
+* TODO Episode 1
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: creative
+  :EXPORT_FILE_NAME: tcs_ep_1
+  :END:
+  test
+Episode 1
+* TODO Keeping Track of Words, and writing as a habit 
+  
+# Show table of contents for someone olny here for notion, write a heads up on skipping sections
+
+In 2018 I was inspired by [[https://seanwes.com/about/][Sean McCabe]] to write more, way more. His philosophy entails that *writing is the process where any form of creation begins.* 
+
+** It All Starts With Writing 
+   
+It doesn't matter what you do, whether that's blogging, video-editing, art or any other creative field it all starts with writing.
+
+If you want to make a film you have to write a script. If you want to give a talk you have to write it first.
+
+It starts with writing and before that that it starts with a solid system of note-taking.
+
+"Notes aren't a record of my thinking process. They are my thinking process."
+
+–Richard Feynman
+
+# give more examples
+** Are There Any Exceptions Where Writing Can Be Skipped?
+
+ Most outputs of creative expression start with writing. But you may ask. What if I make YouTube videos can't I just skip the writing part? Yes, you can, but the quality of your thinking and of your outcome will drastically improved if you at least outline what you'll say. 
+
+ It's the same thing for podcasting for instance. I've done over 50 episodes on Stoic Philosophy for my main podcast. A lot of the old episodes where unscripted, but the quality of my thoughts and ideas are far superior when I at least outline my thinking process.
+
+ I'd love to expand on the advantages of writing as part of your creative process, but that is part of a further conversation I wish to follow.
+ # link to other articles or tags 
+   
+*** Writers Write   
+ Painters paint, photographers take photos and writers write. You don't need to call yourself a writer in order reap its benefits. If I already convinced you that writing is the place where your creative process starts then now we must talk about quantity and quality.
+
+*** Quantity Produces Quality
+ A lot of us often debate about quality vs quantity, it's a common debate we don't want to sacrifice the quality of our work because we fear we'll be seen as bad creators. Truth is that quantity produces quality. The more you do something the better you'll get at it.
+
+ The more you write the better of a writer you'll become, the more of your work you put out there for others to observer, the more productive feedback you'll get and the faster you'll improve.
+   
+*** Why Track The Amount Of Words I Write?
+   
+ Is it necessary to track the amount of words you write, per day, month year or even decade? The way I see this is as a motivational tool, a reminded that I'm putting the work. Whenever I feel demotivated or frustrated at my work at least I can see how many words I've written in the months so far and feel a sense of motion towards my goals.
+
+ # write more about the nerdiest of tracking data as a fun hobby
+*** Tracking Daily Word Count
+ Considering that you've been convinced of the advantages of tracking your daily word count, now it's time to consider how to achieve this.
+
+ - Spacemacs
+ - Notion
+ 
+*** What is Spacemacs?
+   Spacemacs is a combination of the 2 most powerful tools created by humans, this are Vim and Emacs. This programs are most commonly used by programmers, but writers and content creators are really missing out, unfortunately it takes a learning curve, but once you learn the power of this tool, there's no going back. Your productivity level will sky rocket.
+
+ The fact that it's open source and free means that everything you write in it is 100% yours. Since it relies on writing in plain text, you can be sure that everything you write today is accessible to you in the coming 50 years and more.
+
+ # plug consulting on spacemacs for writers
+
+ # write about spacemacs as a replacement to scriviner 
+   
+*** What Is Notion?
+ Notion is a note-taking app with infinity functions such as
+ - Content Management System
+ - Air-tables (spreadsheets on steroids)
+ - Task Manager
+ 
+ In some ways it's a user friendly version of the power-tools I mentioned above like Emacs and Spacemacs, but with some amazing features that makes it 10x more accessible to beginners and even useful for power users.
+
+ The reasons to use Notion instead of spacemacs is
+
+ - for collaboration with others.
+ - Spreadsheets on steroids
+ 
+  With the function of spreadsheets on steroid (called databases in notion) we can make a table to keep track of our daily words and create formulas to get words per week, month, year.
+ 
+*** Using your writing app to keep track of word count   
+
+ How does this process look like on daily basis.
+
+ 1. I write my content
+ 2. I create a temporary document called word count
+ 3. I copy past what I write on the day to my word count document
+ 4. I write down in Notion the word count number at the end of the day.
+ 
+ I do this in spacemacs, my process involves a power feature of spacemacs called org-capture, while allows to quickly send text to a specific document.
+
+ At the end of the day I see how many words I've pasted into this temporary document. I write down the final number and delete the file to have it read for the next day.
+
+   
+  # spacemacs consulting
+ # notion consulting
+
+*** Common Issues
+   
+ There's still one common issue that I'm working on solving with this current workflow. 
+ What if I'm editing and adding new words to a previous piece of work?
+
+ Then the word count isn't so obvious, it would be hard to keep track of which words were written today and which one's where written in a previous day.
+
+ I'm sure that spacemacs has either a function, package or way to track daily words. Even if there's nothing pre-made as I improve my skill to write code (elisp) I can configure something that works for me.
+
+ In the meantime I am okay with having my daily word count being inexact and mostly an approximation, at least for now.
+
+
+*** But Wait I don't use Spacemacs?
+   
+ Spacemacs is like I mentioned before a power user tool that will completely change the way you think about inputting text into your computer. Writers can have drastic benefits by learning to use it.
+
+ Yet I must admit I did have to spend hour on end in order to learn how to use it. I got myself deeper into programming and configuring things to my liking, it quickly became an obsession. 
+
+ # If it still calls your attention I currently offer consulting for
+
+
+ # plug Zettlr and consulting stuff / online course
+
+*** COMMENT
+    Additional subheadings
+**** Using Notion to optimize the process
+**** Documenting The Process
+   
+* ----------------- Tests ---------------------------
+* TODO Test
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:EXPORT_FILE_NAME: test
+:EXPORT_DATE: 2020-09-02
+:END:
+** Time Tracking
+** DONE Episode 11                                              :timetracked:
+*** Tracking Working Time
+  #+BEGIN: clocktable :scope subtree :maxlevel 2
+  #+CAPTION: Clock summary at [2020-09-03 Thu 08:48]
+  | Headline       | Time       |      |
+  |----------------+------------+------|
+  | *Total time*   | *1d 10:11* |      |
+  |----------------+------------+------|
+  | JSP Project    | 1d 10:11   |      |
+  | \_  Episode 11 |            | 2:51 |
+  | \_  episode 17 |            | 3:17 |
+  | \_  Episode 19 |            | 3:32 |
+  | \_  Episode 16 |            | 2:40 |
+  | \_  Episode 13 |            | 3:03 |
+  | \_  Episode 15 |            | 2:29 |
+  | \_  Episode 20 |            | 2:26 |
+  | \_  Episode 18 |            | 1:43 |
+  | \_  Episode 25 |            | 2:44 |
+  | \_  Episode 24 |            | 2:09 |
+  | \_  Episode 21 |            | 2:43 |
+  | \_  Episode 27 |            | 2:19 |
+  | \_  Episode 26 |            | 2:15 |
+  #+END:
+*** Episode 11 
+  #+BEGIN: clocktable :scope subtree :maxlevel 3
+  #+CAPTION: Clock summary at [2020-09-03 Thu 08:51]
+  | Headline                               | Time   |      |      |
+  |----------------------------------------+--------+------+------|
+  | *Total time*                           | *2:51* |      |      |
+  |----------------------------------------+--------+------+------|
+  | \_  Episode 11                         |        | 2:51 |      |
+  | \_    Tracking Working Time            |        |      | 1:51 |
+  | \_    Tracking Render and Loading Time |        |      | 1:00 |
+  #+END:
+* ------------- Templates --------------------------
+** Include content
+  #+include: "./website.org::#davinci-200803" :only-contents t
+** unfold
+   <details>
+   <summary>Write What You Want To Display Here</summary>
+   
+  The content you want to unfold goes in here.
+   </details>
+** default properties
+  # :PROPERTIES:
+  # :EXPORT_HUGO_SECTION: ./
+  # :EXPORT_FILE_NAME: about
+  # :EXPORT_DATE: 2020-08-02
+  # :END:
+** linking to section
+** linking to tags
+[Creativity]({{< relref "tags/creativity" >}})
+** html block
+   I activate this with abbrev z h i
+  {{< rawhtml >}}
+  {{< /rawhtml >}}
+** custom id links
+ [[#eponymous-200806][Eponymous law]].
+* ---------------- Other ---------------------------
+* Todo
+** update links to post
+*** [[#folding-200807][How To Fold Text In Ox-Hugo Quick and Easy]]
+     update link in [[#folding-200807][How To Fold Text In Ox-Hugo Quick and Easy]]
+     to my other blogpost [[*How To Fold Text In Ox-Hugo Quick and Easy][How To Fold Text In Ox-Hugo Quick and Easy]] once it's published
+* Blog Ideas
+** TODO What Is Your Life Fuel?
+*** Ideas a fuel
+*** Relationships
+*** Creating
+*** Learning
+*** Entertainment
+** TODO Cinema Laughter, the emotion that produces a sound
+   While watching a film, an audience only really makes a sound of laughter, every other emotion is silent.
+
+This makes it extremly obvious when an audience doesn't laugh at a joke.
+** TODO Business model for Jacks of All Trades
+*** possible titles 
+    - How to create content online as a Jack of All Trades?
+    - How to build a brand as a Jack of All Trades?
+    - Business model for creators who focus on more than one thing
+*** online courses as a business model
+    I am starting to understand the following when it comes to creating content online.
+  
+  Creating  free content builds a brand, consistency leads people to come back to consume more content on that subject.
+
+  Trust is monetizable because advertisers are looking for people with influence. Advertisers look for creators who are trusted by an audience so that they can sell things by using the creators credibility.
+
+  Therefore a common income stream relies on creators getting  eyeballs on their work, so that they can attract sponsors and advertise to their audience.
+
+  This is not a bad business model, but recently I realized that as a Jack of all trades with an umbrella brand (one that focuses on several niches, rather than specializing in one) the sponsor business model although not impossible it's harder to achieve if you keep changing focus on what you create.
+
+  This is why I've started planning selling educational digital products, for instance ebooks or online courses.
+
+  # Expand on topics such as:
+  # independance
+  # self reliance
+  # multiple income streams
+  # honoring your polymath nature
+  # You don't need to be an expert you just need to know more that those you try to teach (Sean wes)
+
+  # This is a new business model I've been building for this website.
+** TODO Do what's important before what's urgent
+   We are in a constant rush to do things. To achieve it all.
+
+# *** Main point of the video
+#     Prioritize on what matters to you.
+#     Let the urgent wait a little longer.
+    
+# *** Who is it for
+#     People who want to create things, but they keep postponing it.
+** TODO write about being a professional learner
+** TODO Finding Better Problems
+* Ideas For Other Blogs
+   
+spacemacs as a replacement for scriviner
+  

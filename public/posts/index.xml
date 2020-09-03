@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Santi Younger</title>
+    <link>https://santi-test.netlify.app/posts/</link>
+    <description>Recent content in Posts on Santi Younger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020 Santi Younger</copyright>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://santi-test.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#34;Davincism&#34; A Modern Philosophy For People With Various Interest</title>
+      <link>https://santi-test.netlify.app/posts/davinci/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://santi-test.netlify.app/posts/davinci/</guid>
+      <description>A New Modern Philosophy  I&amp;rsquo;ve been playing with an idea a while. What if I started a movement for a modern school of thought, a philosophy for creators.
+I would name this philosophy Davincism in honor to the greatest creator of all time Leonardo DaVinci.
+What Is Davincism And Who Is It For?  Davincism would become a modern philosophy for creators who unlike the very well established counterparts &amp;ldquo;specialists&amp;rdquo; can&amp;rsquo;t or don&amp;rsquo;t want to focus on just one interest.</description>
+    </item>
+    
+    <item>
+      <title>Trust That What You Know Today Is Good Enough To Start</title>
+      <link>https://santi-test.netlify.app/posts/trust_what_you_know/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://santi-test.netlify.app/posts/trust_what_you_know/</guid>
+      <description>There&amp;rsquo;s an interesting Eponymous law. called Segal&amp;rsquo;s law, that illustrates how too much information makes us insecure to share our work.
+Segal&amp;rsquo;s Law  Segal’s Law states:
+ “A man with a watch knows what time it is. A man with two watches is never sure.”
+ Having too much information can often make a decision more difficult instead of easier.
+This is also related to the paradox of choice, which overwhelms us and makes us regret any choice we ever make.</description>
+    </item>
+    
+    <item>
+      <title>How To Fold Text In Ox-Hugo Quick and Easy</title>
+      <link>https://santi-test.netlify.app/posts/folding_website_sections/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://santi-test.netlify.app/posts/folding_website_sections/</guid>
+      <description>Recently I learned how to write HTML code inside of ox-hugo thanks to this amazing short blog-post.
+This feature seems to work natively inside of ox-hugo without the need to put it in an HTML block.
+This should work just as well for regular HTML, as well as regular Hugo, this is not a special feature of ox-hugo, but it works great in it and that&amp;rsquo;s where I&amp;rsquo;m using it.</description>
+    </item>
+    
+    <item>
+      <title>Eponymous Law</title>
+      <link>https://santi-test.netlify.app/posts/eponymous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://santi-test.netlify.app/posts/eponymous/</guid>
+      <description>Eponymous law refers to a concept that is named after a person, place or thing. Perhaps the most common example is Murphy&amp;rsquo;s Law:
+ &amp;ldquo;Anything that can go wrong will go wrong&amp;rdquo;.
+ There are several amazing laws like this.
+This page is my work in progress place to link to different eponymous laws mentioned in my blog.
+ Segal&amp;rsquo;s Law  </description>
+    </item>
+    
+  </channel>
+</rss>
