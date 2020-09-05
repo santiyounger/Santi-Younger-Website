@@ -1,7 +1,7 @@
 +++
 title = "\"Davincism\" A Modern Philosophy For People With Various Interest"
 author = ["santi"]
-date = 2020-08-01
+date = 2020-08-05
 tags = ["Davincism"]
 draft = false
 weight = 1001

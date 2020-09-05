@@ -4,8 +4,8 @@
 * "Davincism" A Modern Philosophy For People With Various Interest :Davincism:
   :PROPERTIES: 
   :EXPORT_HUGO_SECTION: posts
-  :EXPORT_FILE_NAME: Davinci
-  :EXPORT_DATE: 2020-08-01
+  :EXPORT_FILE_NAME: davincism
+  :EXPORT_DATE: 2020-08-05
   :CUSTOM_ID: Davinci-200803
   :END: 
 ** A New Modern Philosophy I've been playing with an idea a while.
