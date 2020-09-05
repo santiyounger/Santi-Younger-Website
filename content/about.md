@@ -16,8 +16,8 @@ Here are some of my top interests:
 
 -   Stoic Philosophy
 -   Note Taking Systems
--   Polymathy
--   Web Design
+-   Polymath
+-   Web-Design
 -   Linux
 -   Film-making
 -   Animation
