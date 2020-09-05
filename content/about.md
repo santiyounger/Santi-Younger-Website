@@ -3,12 +3,11 @@ title = "About"
 author = ["santi"]
 date = 2020-08-02
 draft = false
-weight = 1004
+weight = 1005
 +++
 
-md
 Hey my name is Santi.
- ![](/about-me-1-big.jpg)
+ ![](/about/about-me-1-big.jpg)
 
 I am a Jack of All Trades with several interests. Yet they all have one thing in common.
 I learn to create and I create so that I can learn.

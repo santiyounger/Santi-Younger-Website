@@ -204,8 +204,7 @@ This page is my work in progress place to link to different eponymous laws menti
   :END:
 
 Hey my name is Santi.
- [[file:../static/about-me-1-big.jpg]]
-
+ [[file:../static/about/about-me-1-big.jpg]]
 
 I am a Jack of All Trades with several interests. Yet they all have one thing in common.
 I learn to create and I create so that I can learn.
