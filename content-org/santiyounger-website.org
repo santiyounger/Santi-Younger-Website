@@ -202,7 +202,7 @@ This page is my work in progress place to link to different eponymous laws menti
   :EXPORT_FILE_NAME: about
   :EXPORT_DATE: 2020-08-02
   :END:
-
+  
 Hey my name is Santi.
  [[file:../static/about/about-me-1-big.jpg]]
 
