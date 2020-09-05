@@ -1,10 +1,10 @@
 +++
-title = "How To Fold Text In Ox-Hugo Quick and Easy"
+title = "How To Fold Text In Hugo Quick and Easy"
 author = ["santi"]
 date = 2020-08-07
 tags = ["hugo", "web-design"]
 draft = false
-weight = 1005
+weight = 1003
 +++
 
 Recently I learned how to write HTML code inside of ox-hugo thanks to this amazing [short blog-post](~/Zotero/storage/289Z3CW7/hugo-raw-html-shortcode.html).

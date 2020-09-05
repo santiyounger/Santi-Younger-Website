@@ -105,10 +105,10 @@
   
   There's an amazing [[https://sive.rs/infinity][blogpost ]]by [[https://sive.rs][Derek Sivers]] that helps illustrate this point perfectly. 
 
-* How To Fold Text In Ox-Hugo Quick and Easy                   :hugo:web_design:
+* How To Fold Text In Hugo Quick and Easy                   :hugo:web_design:
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: posts
-  :EXPORT_FILE_NAME: folding_website_sections
+  :EXPORT_FILE_NAME: hugo_fold
   :EXPORT_DATE: 2020-08-07
   :CUSTOM_ID: folding-200807
   :END:
@@ -117,7 +117,7 @@
 Recently I learned how to write HTML code inside of ox-hugo thanks to this amazing [[file:~/Zotero/storage/289Z3CW7/hugo-raw-html-shortcode.html][short blog-post]].
 
 This feature seems to work natively inside of ox-hugo without the need to put it in an HTML block.
-
+ 
 This should work just as well for regular HTML, as well as regular Hugo, this is not a special feature of ox-hugo, but it works great in it and that's where I'm using it.
 
 ** What It Looks Like
@@ -936,9 +936,6 @@ It starts with writing and before that that it starts with a solid system of not
 * ---------------- Other ---------------------------
 * Todo
 ** update links to post
-*** [[#folding-200807][How To Fold Text In Ox-Hugo Quick and Easy]]
-     update link in [[#folding-200807][How To Fold Text In Ox-Hugo Quick and Easy]]
-     to my other blogpost [[*How To Fold Text In Ox-Hugo Quick and Easy][How To Fold Text In Ox-Hugo Quick and Easy]] once it's published
 * Blog Ideas
 ** TODO What Is Your Life Fuel?
 *** Ideas a fuel
