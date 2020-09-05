@@ -2,7 +2,7 @@
 title = "\"Davincism\" A Modern Philosophy For People With Various Interest"
 author = ["santi"]
 date = 2020-08-01
-tags = ["davincism"]
+tags = ["Davincism"]
 draft = false
 weight = 1001
 +++
@@ -34,14 +34,14 @@ The multi-niche method teaches how to make it as someone with various interests,
 
 ## What Term Is Used To Describe A Follower Of Davincism? {#what-term-is-used-to-describe-a-follower-of-davincism}
 
-Someone who practices the concepts of Davincism would be called a _Davincist._ You can start calling yourself a davincist from the moment you choose to, this is not a religious movemement, nor a private club. My hope is to make davincism a established idea that anyone who doesn't want to follow in specialization can adopt.
+Someone who practices the concepts of Davincism would be called a _Davincist._ You can start calling yourself a Davincist from the moment you choose to, this is not a religious movement, nor a private club. My hope is to make Davincism a established idea that anyone who doesn't want to follow in specialization can adopt.
 
 
 ## A Short Note On Our Hero Leonardo {#a-short-note-on-our-hero-leonardo}
 
 As we all know DaVinci is one of the most brilliant geniuses that humanity has sees. There might be thousands of people like him right now, who’s goals and ambitions have never been able to reached Leonardo’s level of achievements and admiration.
 
-Perhaps you (just like me) have also been envious of Leonardo’s ability to line up all of his talents and pass to history as the most successful Polymath. DaVinci had an incredible ability to work on an infinite amount of different fields of study, including:
+Perhaps you (just like me) have also been **envious of Leonardo’s ability to line up all of his talents** and pass to history as the most successful Polymath. DaVinci had an incredible ability to work on an infinite amount of different fields of study, including:
 
 -   Art
 -   Science
@@ -60,17 +60,17 @@ Leonardo didn't have an easy life, but he was born in a time where being a gener
 
 ## The Rise Of Specialization The Downfall Of Generalists {#the-rise-of-specialization-the-downfall-of-generalists}
 
-Unlike today, being a single talented specialist wasn't very admirable. We lost our way with the rise of industrialization where we created a market that treats us as productivity machines more than actual humans, filled with curiosity and a desire to learn.
+Unlike today, being a single talented specialist wasn't very admirable. **We lost our way with the rise of industrialization** where we created a market that treats us as productivity machines more than actual humans, filled with curiosity and a desire to learn.
 
 
 ## Nature Vs Nurture {#nature-vs-nurture}
 
-It's hard to tell if some of us are born to have several intersts, or if it's a personality trait we aquiere. Some say we are all born with infinite curiosity and society pushes us down the funnel of specialization, (this is not too hard to believe) weather you think you were born like this, or if it's a choice, let me encourage you to be who you want to be to the fullest.
+It's hard to tell if some of us are born to have several interests, or if it's a personality trait we acquire. Some say we are all born with infinite curiosity and society pushes us down the funnel of specialization, (this is not too hard to believe) weather you think you were born like this, or if it's a choice, let me encourage you to be who you want to be to the fullest.
 
 
 ## Many Terms To Describe Someone Like DaVinci {#many-terms-to-describe-someone-like-davinci}
 
-Davincism is a term that aim to unify all the different ways in which people like as are refered to. Just to mention a few:
+Davincism is a term that aim to unify all the different ways in which people like as are referred to. Just to mention a few:
 
 -   Jack of All Trades
 -   Generalist
@@ -85,9 +85,9 @@ Unfortunately, some of the terms used to describe have the intention to look dow
 
 Polymath is an amazing term, yet not well know and difficult to understand just by reading it. Davincism is a term that can be understood from just reading it.
 
-Most people know who Leonardo DaVinci is, he is recognized as a genius and it's an empowring term for those of use who want to be more like DaVinci and become the true versions of ourself with all of our intersets and passions.
+Most people know who Leonardo DaVinci is, he is recognized as a genius and it's an empowering term for those of use who want to be more like DaVinci and become the true versions of ourselves with all of our interests and passions.
 
 
 ## What's Next {#what-s-next}
 
-Considering that you are on board with this new philosophy, you can become a proacticng davincist from this moment onward. Of course using a new term won't chance your life just like that, but it's a start. y thoughts on this new philosophy are in progress. If you would like to find out more how to be a successful Davincist I'd love to help, feel free to contact me, let's create a movement together.
+Considering that you are on board with this new philosophy, **you can become a practicing Davincist from this moment onward.** Of course using a new term won't chance your life just like that, but it's a start. y thoughts on this new philosophy are in progress. If you would like to find out more how to be a successful Davincist I'd love to help, feel free to contact me, let's create a movement together.
