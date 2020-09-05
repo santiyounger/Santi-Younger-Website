@@ -263,7 +263,7 @@ At the end of the day none of those things define who I am.
   :EXPORT_FILE_NAME: _index
   :EXPORT_DATE: 2020-08-02
   :END:
-  Hey There, my name is Santi, you can make the most of this website by exploring different categories below.
+ Hey There, my name is Santi, you can make the most of this website by exploring different categories below.
 ** [Davincism]({{< relref "tags/davincism" >}})
    
    <details>

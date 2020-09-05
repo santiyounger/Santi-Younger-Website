@@ -2,7 +2,7 @@
 author = ["santi"]
 date = 2020-08-02
 draft = false
-weight = 1011
+weight = 1006
 +++
 
 Hey There, my name is Santi, you can make the most of this website by exploring different categories below.
