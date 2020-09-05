@@ -257,9 +257,9 @@ paginate = 5
         url = "podcast/"
 
       [[languages.en.menu.main]]
-        name = "Notes"
+        name = "Now"
         weight = 4
-        url = "notes/"
+        url = "now/"
 
       [[languages.en.menu.main]]
         name = "Contact"

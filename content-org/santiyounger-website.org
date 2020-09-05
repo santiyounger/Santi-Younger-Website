@@ -320,58 +320,67 @@ My mission will not end until philosophers become creative and creatives become 
 
   {{< social >}}
 * Now
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: ./
-  :EXPORT_FILE_NAME: now
-  :END:
-  {{< rawhtml >}}
-# #+BEGIN_SRC html   
-<details>
-<summary>Previous Updates: 2019 December</summary>
-{{< youtube gwzT5rV-404 >}}
-  <h2>Creations</h2>
-  <ul>
-  <li>Writing and editing daily.</li>
-  <li>Learning HTML and CSS to build my own website (this one). </li>
-  <li>Building an epic, unconventional newsletter for you (Coming soon).</li>
-  <li>Filming and editing videos for YouTube (Coming soon &#128284;).</li>
-  <li>Editing podcast interviews.</li>
-  <li>Working on a secret epic side-project for modern Stoics.</li>
+   :PROPERTIES:
+   :EXPORT_HUGO_SECTION: ./
+   :EXPORT_FILE_NAME: now
+   :END:
+** Rebuilding My Website
+I've been working for the past month on rebuilding this website. It used to be hand-coded on pure HTML and CSS, but the time it took me to maintain that system was not sustainable.
 
-  </ul>
-  <h2>Personal</h2>
-  <ul>
-  <li>Just finished my Master&#39;s degree. No more University ever again!</li>
-  <li>Dedicating 95% of my day to everything mentioned above.</li>
+Now I'm super happy with my new set up. (which is still under construction.)
 
-  </ul>
-  <h2>Struggles</h2>
-  <ul>
-  <li>I have too many ideas, not enough time and money to achieve them all.</li>
-  <li>I&#39;ve been unsuccessfully applying for jobs for months. </li>
+I use [[https://orgmode.org/][Org mode]] in [[https://www.spacemacs.org/][Spacemacs]] to write and organize everything. I export everything to this website with [[https://ox-hugo.scripter.co/][ox-hugo]], with the help of the [[https://gohugo.io/][Hugo]] theme called [[https://themes.gohugo.io/hugo-theme-color-your-world/][Color Your World]].
 
-  </ul>
-  <p><em>(I need a day job to help sustain everything I&#39;m creating, until I can make a living out of what I create.)</em></p>
-  <ul>
-  <li>I want to achieve it all at once.</li>
+If you want to learn more about how I use this tools feel free to send me a message.
 
-  </ul>
-  <h2>Learning</h2>
-  <ul>
-  <li>Reading &#39;Perennial Seller&#39; by Ryan Holiday.  <sup> <a href='http://perennialseller.com/'>&#128213;</a> </sup></li>
-  <li>Going through Sean Wes&#39; amazing online courses. <sup> <a href='https://seanwes.com/membership/'>&#128187;</a></sup></li>
-  <li>Almost done reading &#39;Head First HTML and CSS&#39;. <sup> <a href='https://www.oreilly.com/library/view/head-first-html/059610197X/'>&#128211;</a></sup></li>
-  <li>Just finished &#39;Walden&#39; by Thoreau. Still need to organize notes. <sup> <a href='https://www.walden.org/thoreau/'>&#128215;</a> </sup></li>
-  <li>I need to re-watch &#39;The Dead Poet Society&#39; it&#39;s a beautiful film. I&#39;ve been watching clips of it on YouTube. <sup> <a href='https://www.youtube.com/watch?v=H2xX_jf5qAI'>&#128252;</a></sup></li>
-  <li>About to start reading &#39;The Dip&#39; by Seth Godin. <sup> <a href='https://seths.blog/category/the-dip/'>&#128216;</a> </sup></li>
+** Previous Updates
+    {{< rawhtml >}}
+  <details>
+  <summary>Previous Updates: 2019 December</summary>
+  {{< youtube gwzT5rV-404 >}}
+    <h2>Creations</h2>
+    <ul>
+    <li>Writing and editing daily.</li>
+    <li>Learning HTML and CSS to build my own website (this one). </li>
+    <li>Building an epic, unconventional newsletter for you (Coming soon).</li>
+    <li>Filming and editing videos for YouTube (Coming soon &#128284;).</li>
+    <li>Editing podcast interviews.</li>
+    <li>Working on a secret epic side-project for modern Stoics.</li>
 
-  </ul>
-  <hr />
-  <p>&nbsp;</p>
-  <p>This is a Now page inspired by the amazing Derek Sivers&#39; project <a href='https://nownownow.com/about'>&#128223;</a></p>
-{{< /rawhtml >}}
+    </ul>
+    <h2>Personal</h2>
+    <ul>
+    <li>Just finished my Master&#39;s degree. No more University ever again!</li>
+    <li>Dedicating 95% of my day to everything mentioned above.</li>
 
-</details>
+    </ul>
+    <h2>Struggles</h2>
+    <ul>
+    <li>I have too many ideas, not enough time and money to achieve them all.</li>
+    <li>I&#39;ve been unsuccessfully applying for jobs for months. </li>
+
+    </ul>
+    <p><em>(I need a day job to help sustain everything I&#39;m creating, until I can make a living out of what I create.)</em></p>
+    <ul>
+    <li>I want to achieve it all at once.</li>
+
+    </ul>
+    <h2>Learning</h2>
+    <ul>
+    <li>Reading &#39;Perennial Seller&#39; by Ryan Holiday.  <sup> <a href='http://perennialseller.com/'>&#128213;</a> </sup></li>
+    <li>Going through Sean Wes&#39; amazing online courses. <sup> <a href='https://seanwes.com/membership/'>&#128187;</a></sup></li>
+    <li>Almost done reading &#39;Head First HTML and CSS&#39;. <sup> <a href='https://www.oreilly.com/library/view/head-first-html/059610197X/'>&#128211;</a></sup></li>
+    <li>Just finished &#39;Walden&#39; by Thoreau. Still need to organize notes. <sup> <a href='https://www.walden.org/thoreau/'>&#128215;</a> </sup></li>
+    <li>I need to re-watch &#39;The Dead Poet Society&#39; it&#39;s a beautiful film. I&#39;ve been watching clips of it on YouTube. <sup> <a href='https://www.youtube.com/watch?v=H2xX_jf5qAI'>&#128252;</a></sup></li>
+    <li>About to start reading &#39;The Dip&#39; by Seth Godin. <sup> <a href='https://seths.blog/category/the-dip/'>&#128216;</a> </sup></li>
+
+    </ul>
+    <hr />
+    <p>&nbsp;</p>
+    <p>This is a Now page inspired by the amazing Derek Sivers&#39; project <a href='https://nownownow.com/about'>&#128223;</a></p>
+  {{< /rawhtml >}}
+
+  </details>
 * ----------------- Drafts --------------------------
 * TODO Philosopher's Walk 30 Day Challenge
 :PROPERTIES:
@@ -406,7 +415,12 @@ type: alone
    - to get somewhere
    - dog walk
 
-     
+** Day 2 
+   I had a bit of a stressful walk, it started alright and it was great to be out after a busy day. In the middle of the walk I remembered I need to sort out some freelance tax stuff urgently, so I was anxious to go back home quickly to sort it out.
+
+Thankfully, since I was walking my dog Zizu with my girlfriend I had a nice talk with her and did the best to relax. Now that I am hope I sorted taxes out and feel a better. I can't wait for tomorrow's walk though.
+** Day 3
+   Walk in nature with girlfriend, mom and my dog Zizu, amazing experience much needed.
 ** Thoughts
    I didn't try to purposefully think about any problem in particular. Naturally my urge to turn everything I do into some creative idea lead me down a strange path.
 
@@ -437,6 +451,28 @@ This quickly got out of control into the following thoughts.
  :end:
 
 put numbers in table in notion, export it as md and then remove the numbers if needed. 
+
+* TODO Found my tool for teaching 
+  I've been obsessed about creating an advanced note-taking system. This is more than simple notes, it's a knowledge base for creative people.
+
+I've spent the past couple of years exploring all types of apps and tools. Like most people I've gone through using things such as EverNote, OneNote and all these popular apps. After going hardcore into finding something more powerful I ended up learning everything I could about power user tools made for programmers such as Vim and Emacs.
+
+I'm actually building this website from emacs (more specifically Spacemacs with hugo and ox-hugo) I've come a long way. 
+
+I've come to a place where I use tools such as the all powerful org-mode in emacs with the most powerful package called org-roam. Now that I've come to the point where I want to teach everything I know for someone who wants to build a powerful knolwdge base out of their notes, I realize the huge task it would be to teach tools such as vim and emacs. 
+
+I've been exploring tools that offer power user features, but are also user friendly for someone starting out.
+
+I've been looking for the following essential features:
+
+- Future Proof (You own your files)
+- Vim Keybindings (Power user shortcuts to never touch the mouse)
+- Interconnection of notes (For building a non-hierarchical system which replicates the way our brain works
+- bidirectional linking (backlinks)
+
+I think I finally found the tool I'll use to teach everything I know to creative people who are non-programmers who want to become power users when it comes to building their second brains, digital garden or personal wiki.
+
+The tools is Obsidian. You'll be hearing more about my lunch course teaching everything I know using this amazing tool.
 
 * TODO Can We Go Back To A Better Internet?
   :PROPERTIES:

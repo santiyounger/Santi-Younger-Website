@@ -2,11 +2,23 @@
 title = "Now"
 author = ["santi"]
 draft = false
-weight = 1013
+weight = 1010
 +++
 
-{{< rawhtml >}}
+## Rebuilding My Website {#rebuilding-my-website}
 
+I've been working for the past month on rebuilding this website. It used to be hand-coded on pure HTML and CSS, but the time it took me to maintain that system was not sustainable.
+
+Now I'm super happy with my new set up. (which is still under construction.)
+
+I use [Org mode](https://orgmode.org/) in [Spacemacs](https://www.spacemacs.org/) to write and organize everything. I export everything to this website with [ox-hugo](https://ox-hugo.scripter.co/), with the help of the [Hugo](https://gohugo.io/) theme called [Color Your World](https://themes.gohugo.io/hugo-theme-color-your-world/).
+
+If you want to learn more about how I use this tools feel free to send me a message.
+
+
+## Previous Updates {#previous-updates}
+
+  {{< rawhtml >}}
 <details>
 <summary>Previous Updates: 2019 December</summary>
 {{< youtube gwzT5rV-404 >}}
@@ -51,7 +63,5 @@ weight = 1013
   <p>&nbsp;</p>
   <p>This is a Now page inspired by the amazing Derek Sivers&#39; project <a href='https://nownownow.com/about'>&#128223;</a></p>
 {{< /rawhtml >}}
-
-bout to start reading 'The Dip' by Seth Godin. 📘
 
 </details>
