@@ -36,7 +36,18 @@ Just like more people, I've gone through all times of platforms to design websit
 [Web-Design]({{< relref "tags/web-design" >}})
     </details>
 
-</details>
-
 
 ## [Creativity]({{< relref "tags/creativity" >}}) {#creativity--relref-tags-creativity}
+
+
+## [Philosophy]({{< relref "tags/philosophy" >}}) {#philosophy--relref-tags-philosophy}
+
+<details>
+<summary>What is This Category About?</summary>
+
+> "To be a philosopher is not merely to have subtle thoughts, nor even to found a school…it is to solve some of the problems of life, not only theoretically, but practically."
+— Henry David Thoreau
+
+ Explore this category:
+[Philosophy]({{< relref "tags/philosophy" >}})
+    </details>
