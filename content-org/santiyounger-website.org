@@ -332,6 +332,7 @@ My mission will not end until philosophers become creative and creatives become 
    :PROPERTIES:
    :EXPORT_HUGO_SECTION: ./
    :EXPORT_FILE_NAME: now
+  :EXPORT_DATE: 2020-09-05
    :END:
 ** Rebuilding My Website
 I've been working for the past month on rebuilding this website. It used to be hand-coded on pure HTML and CSS, but the time it took me to maintain that system was not sustainable.
