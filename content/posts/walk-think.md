@@ -65,3 +65,13 @@ Today I've been feeling tired after a bad night sleep. I value sleep more than I
 I even came up with a nice sounding quote:
 
 >Don't let insecurities hide behind what looks like resonable excuses.
+
+
+## Day 5 {#day-5}
+
+I was getting obsessed over learning a certain subject that I'm passionate about, I hit a wall of overwhelm, this is where thankfully I forced myself to go for a walk.
+
+
+## Day 6 {#day-6}
+
+I was feeling pretty stressed, I'm happy I forced myself to go for this walk. I feel a bit overwhelmed by certain stressful things I need to do, but I can definitely see how the walk helped free some tension.
