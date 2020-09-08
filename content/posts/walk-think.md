@@ -8,7 +8,7 @@ weight = 1005
 
 I've decided to do a experiment. I'm doing a 30 day walk challenge.
 
-I'll call it "The Philosopher Walk Challenge"
+I'll call it "Philosopher's Walk Challenge"
 
 > “I can only meditate when I am walking. When I stop, I cease to think; my mind only works with my legs.”
 >- Jean-Jacque Rousseau
