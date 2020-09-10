@@ -79,3 +79,8 @@ I was feeling pretty stressed, I'm happy I forced myself to go for this walk. I 
 I usually go for my walk in the afternoon. I started experiencing some anxiety during the morning. I just came back from it and I do feel better than I did. I've been feeling overwhelmed this last couple of days. I know there will be days where I don't see the point in walking nor on keeping this log of my thoughts.
 
 I just have to trust that the walk will benefit me, and that this track of my thoughts might help someone else as well to do the same.
+
+
+## Day 8 {#day-8}
+
+Today was satisfying, I had a productive work session, I actually finished video editing project that process that usually takes me over 3 hours in almost half the time. Going for my daily walk felt like a nice transition to the next things I want to do with my day. I'm in a good mood right now, ready to take onto more fulfilling work.

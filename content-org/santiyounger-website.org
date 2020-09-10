@@ -269,7 +269,7 @@ I was getting obsessed over learning a certain subject that I'm passionate about
 
 I just have to trust that the walk will benefit me, and that this track of my thoughts might help someone else as well to do the same.   
 ** Day 8
-   Today was satisfying, I had a productive work session, I actually finshed video editing project that process that usually takes me over 3 hours in almost half the time. Going for my daily walk felt like a nice transition to the next things I want to do with my day. I'm in a good mood right now, ready to take onto more fullfiling work.
+   Today was satisfying, I had a productive work session, I actually finished video editing project that process that usually takes me over 3 hours in almost half the time. Going for my daily walk felt like a nice transition to the next things I want to do with my day. I'm in a good mood right now, ready to take onto more fulfilling work.
 ** COMMENT
 *** Process to import properties
 ***  code
@@ -904,49 +904,6 @@ It starts with writing and before that that it starts with a solid system of not
 **** Using Notion to optimize the process
 **** Documenting The Process
    
-* ----------------- Tests ---------------------------
-* TODO Test
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: posts
-:EXPORT_FILE_NAME: test
-:EXPORT_DATE: 2020-09-02
-:END:
-** test
-** Time Tracking
-** DONE Episode 11                                              :timetracked:
-*** Tracking Working Time
-  #+BEGIN: clocktable :scope subtree :maxlevel 2
-  #+CAPTION: Clock summary at [2020-09-03 Thu 08:48]
-  | Headline       | Time       |      |
-  |----------------+------------+------|
-  | *Total time*   | *1d 10:11* |      |
-  |----------------+------------+------|
-  | JSP Project    | 1d 10:11   |      |
-  | \_  Episode 11 |            | 2:51 |
-  | \_  episode 17 |            | 3:17 |
-  | \_  Episode 19 |            | 3:32 |
-  | \_  Episode 16 |            | 2:40 |
-  | \_  Episode 13 |            | 3:03 |
-  | \_  Episode 15 |            | 2:29 |
-  | \_  Episode 20 |            | 2:26 |
-  | \_  Episode 18 |            | 1:43 |
-  | \_  Episode 25 |            | 2:44 |
-  | \_  Episode 24 |            | 2:09 |
-  | \_  Episode 21 |            | 2:43 |
-  | \_  Episode 27 |            | 2:19 |
-  | \_  Episode 26 |            | 2:15 |
-  #+END:
-*** Episode 11 
-  #+BEGIN: clocktable :scope subtree :maxlevel 3
-  #+CAPTION: Clock summary at [2020-09-03 Thu 08:51]
-  | Headline                               | Time   |      |      |
-  |----------------------------------------+--------+------+------|
-  | *Total time*                           | *2:51* |      |      |
-  |----------------------------------------+--------+------+------|
-  | \_  Episode 11                         |        | 2:51 |      |
-  | \_    Tracking Working Time            |        |      | 1:51 |
-  | \_    Tracking Render and Loading Time |        |      | 1:00 |
-  #+END:
 * ------------- Templates --------------------------
 ** Include content
   #+include: "./website.org::#davinci-200803" :only-contents t
@@ -1025,3 +982,5 @@ This makes it extremly obvious when an audience doesn't laugh at a joke.
 * Ideas For Other Blogs
    
 spacemacs as a replacement for scriviner
+* ----------------- Tests ---------------------------
+* TODO Test
